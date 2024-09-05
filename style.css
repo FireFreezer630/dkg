@@ -1,9 +1,6 @@
-html { 
-    transform: scale(100%); /* Scale down to 90% */ 
-     /* Adjust the width to prevent clipping */ 
-} 
+
 body{
-    
+    transform: scale(100%);
     font-family: 'proxima_nova_rgregular';
     margin: 0 auto;
     line-height:1.6;
