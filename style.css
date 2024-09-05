@@ -1,10 +1,10 @@
 
 body{
-    transform: scale(90%);
+    
     font-family: 'proxima_nova_rgregular';
     margin: 0 auto;
     line-height:1.6;
-    font-size:24px;
+    font-size:18px;
     color:#333;
     overflow-x: hidden;
     text-align: center;
