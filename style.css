@@ -1,7 +1,6 @@
 html { 
-    transform: scale(0.9); /* Scale down to 90% */ 
-    transform-origin: top left; /* Set the origin point for scaling */ 
-    width: 111.11%; /* Adjust the width to prevent clipping */ 
+    transform: scale(90%); /* Scale down to 90% */ 
+     /* Adjust the width to prevent clipping */ 
 } 
 body{
     
