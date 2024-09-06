@@ -61,6 +61,7 @@ h1,h2,h3{
     padding: 10px;
 }
 .service-card{
+    padding:10px;
     background: whitesmoke;
     border: 1px solid whitesmoke;
     border-radius: 5px;
