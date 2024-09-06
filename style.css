@@ -40,7 +40,7 @@ body{
 
     background: -webkit-linear-gradient(45deg, hsla(113, 96%, 81%, 1) 0%, hsla(188, 90%, 51%, 1) 100%);
 filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#ADFDA2", endColorstr="#11D3F3", GradientType=1 );
-    padding: 5px;
+    padding: 10px;
     border-bottom: 3px solid whitesmoke;
     color:white;
 }
