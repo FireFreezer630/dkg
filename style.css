@@ -143,11 +143,13 @@ filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#ADFDA2", en
 /* Position the "next button" to the right */
 .next {
   position: absolute;
+  padding:15px;
   right: 0;
   border-radius: 3px 0 0 3px;
 }
 .prev {
   position: absolute;
+  padding:15px;
   left: 0;
   border-radius: 3px 0 0 3px;
 }
