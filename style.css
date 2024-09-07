@@ -43,6 +43,7 @@ filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#ADFDA2", en
     padding: 10px;
     border-bottom: 3px solid whitesmoke;
     color:white;
+    font-size:40px;
 }
 ul{
     list-style-position: outside;
@@ -50,7 +51,7 @@ ul{
 }
 h1,h2,h3{
     line-height:1.2;
-    font-size:45px;
+    
      
 }
 
