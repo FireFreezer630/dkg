@@ -43,7 +43,7 @@ filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#ADFDA2", en
     padding: 5px;
     border-bottom: 3px solid whitesmoke;
     color:white;
-    font-size:44px;
+    
 }
 ul{
     list-style-position: outside;
@@ -51,10 +51,7 @@ ul{
 }
 h1,h2,h3{
     line-height:1.2;
-    
-}
-h2{
-    font-size:60px;
+     
 }
 
 .services {
@@ -67,11 +64,9 @@ h2{
 .service-card{
     background: whitesmoke;
     border: 1px solid whitesmoke;
-    font-size:40px;
     border-radius: 5px;
-    padding:50px;
     margin: 3px;
-    
+    box-shadow: ;
     color: #444;
     
 }
@@ -79,7 +74,6 @@ h2{
 .buy{
     background: #FFFAFA;
     display: flex;
-    padding:20px;
     border-radius: 5px;
     padding-left: 20px;
     padding-right: 20px;
@@ -143,15 +137,12 @@ filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#ADFDA2", en
 /* Position the "next button" to the right */
 .next {
   position: absolute;
-  font-size:30px;
-  padding:15px;
+  font-size: 54px;
   right: 0;
   border-radius: 3px 0 0 3px;
 }
 .prev {
   position: absolute;
-  font-size:30px;
-  padding:15px;
   left: 0;
   border-radius: 3px 0 0 3px;
 }
